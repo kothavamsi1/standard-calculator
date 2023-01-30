@@ -6,24 +6,20 @@ To design a web application for a standard calculator.
 
 ## DESIGN STEPS:
 
-### Step 1:
+### Step 1: clone the git hub repository and create django admin interface
 
 
 ### Step 2:
-
+change settings.py to allow all the hosts
 
 ### Step 3:
-
+use css to create attractive colour
 
 ### Step 4:
-
+write java script program to implement 5 kind of operations
 
 ### Step 5:
-
-### Step 6:
-
-Validate the HTML and CSS code.
-
+validate the html and css code
 ### Step 6:
 
 Publish the website in the given URL.
@@ -157,5 +153,6 @@ for (item of buttons) {
 ## OUTPUT:
 
 
-## Result:
+
+## Result: the above program has been successfully executed
 
