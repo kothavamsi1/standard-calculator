@@ -152,9 +152,9 @@ for (item of buttons) {
 }
 ## OUTPUT:
 
-![output](op.png)
 
 
+![op](https://user-images.githubusercontent.com/119828582/215413024-845cd404-a0a7-4908-98c0-89db07f43737.png)
 
 
 
